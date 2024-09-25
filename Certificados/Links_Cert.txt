@@ -1,0 +1,3 @@
+LangChain_LLM:
+https://www.udemy.com/certificate/UC-ae1125ce-d9d0-4a0f-817d-ad726b77b833/
+
